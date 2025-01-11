@@ -1,0 +1,7 @@
+S/N   NAME OF COMMISSIONER           S/N   MINISTRY             S/N   GEOPOLITICAL ZONE
+------------------------------------------------------------------------------------------
+1     Aigbogun Alamba Daudu          1     Internal Affairs     1     South West     
+2     Murtala Afeez Bendu            2     Justice              2     North East     
+3     Okorocha Calistus Ogbonna      3     Defense              3     South South    
+4     Adewale Jimoh Akanbi           4     Power & Steel        4     South West     
+5     Osazuwa Faith Etieve           5     Petroleum            5     South East     

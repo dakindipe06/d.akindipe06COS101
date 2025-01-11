@@ -6,6 +6,7 @@ fn main() {
 }
 
 //pass the tuple as a parameter
+
 fn print(x:(i64,bool,f64)) {
 
     println!("Inside print method");
